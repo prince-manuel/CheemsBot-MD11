@@ -19,9 +19,9 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Cheems Bot MD V11' //ur bot name
-global.ownernumber = '916909137213' //ur owner number
-global.ownername = '🦄드림 가이 Xeon' //ur owner name
+global.botname = '🅿🆁🅸🅽🅲🅴_🅱🅾🆃' //ur bot name
+global.ownernumber = '2349017935543' //ur owner number
+global.ownername = '𝓟 𝓡 𝓘 𝓝 𝓒 𝓔' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
 global.themeemoji = '🪀'
@@ -35,7 +35,7 @@ global.premium = ["916909137213"] // Premium User
 global.hituet = 0
 
 //bot sett
-global.typemenu = 'v8' // menu type 'v1' => 'v8'
+global.typemenu = 'v2' // menu type 'v1' => 'v8'
 global.typereply = 'v2' // reply type 'v1' => 'v3'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
